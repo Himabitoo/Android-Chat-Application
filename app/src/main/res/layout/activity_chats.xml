@@ -20,13 +20,15 @@
             android:layout_height="wrap_content">
 
             <TextView
-                android:id="@+id/txtTitle"
+                android:id="@+id/txtName"
+                android:text="Name"
                 android:layout_width="wrap_content"
                 android:layout_height="0dp"
                 android:layout_weight="0.5"/>
 
             <TextView
                 android:id="@+id/txtMessage"
+                android:text="Message"
                 android:layout_width="wrap_content"
                 android:layout_height="0dp"
                 android:layout_weight="0.5"/>

@@ -1,10 +1,10 @@
 package com.example.chatapplication.model;
 
-public class ChatData {
+public class UsersEntity {
+
     private String imageUrl;
     private String name;
     private String message;
-
 
     public String getImageUrl() {
         return imageUrl;
